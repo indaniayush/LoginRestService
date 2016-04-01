@@ -1,0 +1,4 @@
+---
+applications:
+- name: LoginServiceProject
+  memory: 256M
