@@ -1,0 +1,4 @@
+---
+applications:
+- name: LoginServiceUI
+  memory: 256M
